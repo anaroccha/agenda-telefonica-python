@@ -1,2 +1,16 @@
 # agenda-telefonica-python
-Um sistema de gerenciamento de contatos desenvolvido em Python que roda via terminal. O projeto permite cadastrar, visualizar, editar, favoritar e excluir contatos, aplicando conceitos de listas, dicionários e funções.
+Projeto de gerenciamento de contatos desenvolvido para praticar lógica de programação em Python.
+
+Funcionalidades:
+- Adicionar Contatos: Salva nome, telefone e e-mail.
+
+- Visualização Completa: Lista todos os contatos com índices organizados.
+
+- Favoritos: Sistema para marcar/desmarcar contatos e visualizar uma lista exclusiva de favoritos.
+
+- Edição e Exclusão: Permite atualizar informações ou remover contatos da base de dados.
+
+Tecnologias:
+- Python 
+
+- Manipulação de Listas e Dicionários.
